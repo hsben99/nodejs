@@ -1,0 +1,12 @@
+{"level":"info","message":"루트 URL에 접속했습니다.","service":"user-service","timestamp":"2023-05-13T23:45:19.982Z"}
+{"level":"info","message":"submit 요청","service":"user-service","timestamp":"2023-05-13T23:45:23.379Z"}
+{"level":"info","message":"루트 URL에 접속했습니다.","service":"user-service","timestamp":"2023-05-13T23:59:39.561Z"}
+{"level":"info","message":"루트 URL에 접속했습니다.","service":"user-service","timestamp":"2023-05-14T00:12:58.655Z"}
+{"level":"info","message":"루트 URL에 접속했습니다.","service":"user-service","timestamp":"2023-05-14T00:16:05.124Z"}
+{"level":"info","message":"루트 URL에 접속했습니다.","service":"user-service","timestamp":"2023-05-14T00:16:44.755Z"}
+{"level":"info","message":"루트 URL에 접속했습니다.","service":"user-service","timestamp":"2023-05-14T00:20:50.211Z"}
+{"level":"info","message":"루트 URL에 접속했습니다.","service":"user-service","timestamp":"2023-05-14T00:20:57.705Z"}
+{"level":"info","message":"루트 URL에 접속했습니다.","service":"user-service","timestamp":"2023-05-14T00:20:58.312Z"}
+{"level":"info","message":"name : 한승찬, eamil : hsben99@naver.com ... mail send success","service":"user-service","timestamp":"2023-05-14T00:21:07.435Z"}
+{"level":"info","message":"name : 한승찬, eamil : photo99wix@naver.com ... mail send success","service":"user-service","timestamp":"2023-05-14T00:22:14.450Z"}
+{"level":"info","message":"name : 한승찬, eamil : photo99wix@gmail.com ... mail send success","service":"user-service","timestamp":"2023-05-14T00:22:46.946Z"}
