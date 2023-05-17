@@ -1,0 +1,47 @@
+
+/* 전체 영역 스타일 */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* 헤더 스타일 */
+header {
+  height: 80px;
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+/* 네비게이션바 스타일 */
+nav {
+  background-color: #444;
+  height: calc(100vh - 160px);
+  width: 200px;
+  float: left;
+  overflow-y: auto;
+}
+
+/* 컨텐츠 스타일 */
+main {
+  background-color: #eee;
+  height: calc(100vh - 160px);
+  margin-left: 200px;
+  padding: 20px;
+}
+
+/* 푸터 스타일 */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  height: 80px;
+  clear: both;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
